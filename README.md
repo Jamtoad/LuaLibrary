@@ -6,3 +6,19 @@ Lua is an amazing language with an amazing community. There are hundreds and hun
 Pull requests are welcome and encouraged, together we can make the largest library of information on Lua!
 
 Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) and [lua-languages](https://github.com/hengestone/lua-languages)
+
+### Packages
+
+### Resources
+- [Community](#community)
+- [Style Guides](#style-Guides)
+- [Tutorials](#tutorials)
+- [Books](#books)
+
+### Community
+
+### Style Guides
+
+### Tutorials
+
+### Books
