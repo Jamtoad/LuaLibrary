@@ -8,12 +8,17 @@ Pull requests are welcome and encouraged, together we can make the largest libra
 Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) and [lua-languages](https://github.com/hengestone/lua-languages)
 
 ### Packages
+- [Languages](#languages)
 
 ### Resources
 - [Community](#community)
 - [Style Guides](#style-Guides)
 - [Tutorials](#tutorials)
 - [Books](#books)
+
+---
+
+### Languages
 
 ### Community
 
