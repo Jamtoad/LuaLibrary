@@ -34,6 +34,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [NeLua](https://nelua.io)
 - [Terra](https://terralang.org)
 - [Wren](https://wren.io)
+- [roblox-ts](https://roblox-ts.com/)
 
 ### Blockchain
 - [Aergo](https://www.aergo.io)
@@ -54,6 +55,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Love2D](https://love2d.org)
 - [Defold](https://defold.com)
 - [Roblox Studio](https://www.roblox.com/create)
+- [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
 
 ### Windows Development
 - [LuaRT](https://www.luart.org)
@@ -67,3 +69,4 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 ### Tutorials
 
 ### Books
+- [Programming in Lua](https://www.lua.org/pil/contents.html)
