@@ -35,6 +35,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Terra](https://terralang.org)
 - [Wren](https://wren.io)
 - [roblox-ts](https://roblox-ts.com/)
+- [Teal](https://github.com/teal-language/tl)
 
 ### Blockchain
 - [Aergo](https://www.aergo.io)
