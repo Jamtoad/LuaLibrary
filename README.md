@@ -37,6 +37,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [roblox-ts](https://roblox-ts.com/)
 - [Teal](https://github.com/teal-language/tl)
 - [Wu](https://github.com/wu-lang/wu)
+- [Luau](https://luau-lang.org)
 
 ### Blockchain
 - [Aergo](https://www.aergo.io)
@@ -46,6 +47,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Lite](https://github.com/rxi/lite)
 - [Lite XL](https://lite-xl.com)
 - [ZeroBrane Studio](https://studio.zerobrane.com)
+- [Howl](https://howl.io)
 
 ### Web
 - [Kepler](https://www.keplerproject.org)
@@ -58,6 +60,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Defold](https://defold.com)
 - [Roblox Studio](https://www.roblox.com/create)
 - [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
+- [Mudlet](https://www.mudlet.org)
 
 ### Windows Development
 - [LuaRT](https://www.luart.org)
