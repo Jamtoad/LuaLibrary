@@ -14,6 +14,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Blockchain](#blockchain)
 - [Text Editors and IDEs](#text-editors-and-ides)
 - [Web](#web)
+- [Game Systems](#game-systems)
 - [Game Development](#game-development)
 - [Windows Development](#windows-development)
 
@@ -54,6 +55,9 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Lapis](https://leafo.net/lapis/)
 - [Mako Server](https://makoserver.net)
 - [OpenResty](https://openresty.org/en/)
+
+### Game Systems
+- [Play Date](https://play.date)
 
 ### Game Development
 - [Love2D](https://love2d.org)
