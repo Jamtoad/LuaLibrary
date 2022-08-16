@@ -17,6 +17,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Game Systems](#game-systems)
 - [Game Development](#game-development)
 - [Windows Development](#windows-development)
+- [Internet of Things](#internet-of-things)
 
 ## Resources
 - [Community](#community)
@@ -68,6 +69,9 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 
 ### Windows Development
 - [LuaRT](https://www.luart.org)
+
+### Internet of Things
+- [eLua](http://www.eluaproject.net)
 
 ---
 
