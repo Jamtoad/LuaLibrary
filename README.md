@@ -72,6 +72,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 
 ### Internet of Things
 - [eLua](http://www.eluaproject.net)
+- [NodeMCU](https://github.com/nodemcu/nodemcu-firmware)
 
 ---
 
