@@ -66,6 +66,11 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Roblox Studio](https://www.roblox.com/create)
 - [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
 - [Mudlet](https://www.mudlet.org)
+- [Echo](https://github.com/timi-liuliang/echo)
+- [nCine](https://ncine.github.io)
+- [Overload](http://overloadengine.org)
+- [Crown](https://github.com/crownengine/crown)
+- [Cocos](https://www.cocos.com/en/)
 
 ### Windows Development
 - [LuaRT](https://www.luart.org)
@@ -73,6 +78,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 ### Internet of Things
 - [eLua](http://www.eluaproject.net)
 - [NodeMCU](https://github.com/nodemcu/nodemcu-firmware)
+- [LuaRTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32)
 
 ---
 
