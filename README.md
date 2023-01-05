@@ -57,6 +57,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Mako Server](https://makoserver.net)
 - [OpenResty](https://openresty.org/en/)
 - [Luvit](https://luvit.io/)
+- [Algernon](https://algernon.roboticoverlords.org/)
 
 ### Game Systems
 - [Play Date](https://play.date)
