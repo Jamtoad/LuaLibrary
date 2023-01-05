@@ -59,6 +59,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 
 ### Game Systems
 - [Play Date](https://play.date)
+- [Pico 8](https://www.lexaloffle.com/pico-8.php)
 
 ### Game Development
 - [Love2D](https://love2d.org)
