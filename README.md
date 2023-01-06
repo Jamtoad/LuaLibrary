@@ -58,6 +58,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [OpenResty](https://openresty.org/en/)
 - [Luvit](https://luvit.io/)
 - [Algernon](https://algernon.roboticoverlords.org/)
+- [AllegorySDK](https://github.com/allegory-software/allegory-sdk)
 
 ### Game Systems
 - [Play Date](https://play.date)
