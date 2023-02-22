@@ -35,11 +35,17 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Moonscript](https://moonscript.org)
 - [NeLua](https://nelua.io)
 - [Terra](https://terralang.org)
+- [Ravi](https://github.com/dibyendumajumdar/ravi)
 - [Wren](https://wren.io)
 - [roblox-ts](https://roblox-ts.com/)
 - [Teal](https://github.com/teal-language/tl)
 - [Wu](https://github.com/wu-lang/wu)
 - [Luau](https://luau-lang.org)
+- [Clue](https://github.com/ClueLang/Clue)
+- [Lux](https://github.com/LuxLang/lux)
+- [Hypatia](https://github.com/kindl/Hypatia)
+- [NattLua](https://github.com/CapsAdmin/NattLua)
+- [Pallene](https://github.com/pallene-lang/pallene)
 
 ### Blockchain
 - [Aergo](https://www.aergo.io)
@@ -59,6 +65,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Luvit](https://luvit.io/)
 - [Algernon](https://algernon.roboticoverlords.org/)
 - [AllegorySDK](https://github.com/allegory-software/allegory-sdk)
+- [Luakit](https://luakit.github.io/)
 
 ### Game Systems
 - [Play Date](https://play.date)
