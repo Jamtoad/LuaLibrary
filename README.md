@@ -46,6 +46,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Hypatia](https://github.com/kindl/Hypatia)
 - [NattLua](https://github.com/CapsAdmin/NattLua)
 - [Pallene](https://github.com/pallene-lang/pallene)
+- [Pluto](https://github.com/PlutoLang/Pluto)
 
 ### Blockchain
 - [Aergo](https://www.aergo.io)
