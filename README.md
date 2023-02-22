@@ -28,19 +28,19 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 ---
 
 ### Languages
+- [Fennel](https://fennel-lang.org)
 - [Erde](https://erde-lang.github.io)
+- [Wu](https://github.com/wu-lang/wu)
 - [Haxe](https://haxe.org)
 - [Yuescript](https://yuescript.org)
-- [Fennel](https://fennel-lang.org)
 - [Moonscript](https://moonscript.org)
+- [Luau](https://luau-lang.org)
 - [NeLua](https://nelua.io)
 - [Terra](https://terralang.org)
 - [Ravi](https://github.com/dibyendumajumdar/ravi)
 - [Wren](https://wren.io)
 - [roblox-ts](https://roblox-ts.com/)
 - [Teal](https://github.com/teal-language/tl)
-- [Wu](https://github.com/wu-lang/wu)
-- [Luau](https://luau-lang.org)
 - [Clue](https://github.com/ClueLang/Clue)
 - [Lux](https://github.com/LuxLang/lux)
 - [Hypatia](https://github.com/kindl/Hypatia)
