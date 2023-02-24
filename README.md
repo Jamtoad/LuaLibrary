@@ -97,6 +97,10 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [NodeMCU](https://github.com/nodemcu/nodemcu-firmware)
 - [LuaRTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32)
 
+### Build Utilities
+- [XMake](https://github.com/xmake-io/xmake)
+- [Tup](https://gittup.org/tup/)
+
 ---
 
 ### Community
