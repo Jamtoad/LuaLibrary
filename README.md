@@ -49,6 +49,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Pluto](https://github.com/PlutoLang/Pluto)
 - [SciLua](https://scilua.org/)
 - [Wax](https://github.com/LingDong-/wax)
+- [LuneScript](https://github.com/ifritJP/LuneScript)
 
 ### Blockchain
 - [Aergo](https://www.aergo.io)
