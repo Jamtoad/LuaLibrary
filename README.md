@@ -47,6 +47,8 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [NattLua](https://github.com/CapsAdmin/NattLua)
 - [Pallene](https://github.com/pallene-lang/pallene)
 - [Pluto](https://github.com/PlutoLang/Pluto)
+- [SciLua](https://scilua.org/)
+- [Wax](https://github.com/LingDong-/wax)
 
 ### Blockchain
 - [Aergo](https://www.aergo.io)
@@ -67,6 +69,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Algernon](https://algernon.roboticoverlords.org/)
 - [AllegorySDK](https://github.com/allegory-software/allegory-sdk)
 - [Luakit](https://luakit.github.io/)
+- [NLua](http://nlua.org/)
 
 ### Game Systems
 - [Play Date](https://play.date)
