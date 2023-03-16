@@ -91,6 +91,7 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 
 ### Windows Development
 - [LuaRT](https://www.luart.org)
+- [SRLua Binaries](https://joedf.ahkscript.org/LuaBuilds/)
 
 ### Internet of Things
 - [eLua](http://www.eluaproject.net)
