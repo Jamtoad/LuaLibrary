@@ -5,8 +5,6 @@ Lua is an amazing language with an amazing community. There are hundreds and hun
 
 Pull requests are welcome and encouraged, together we can make the largest library of information on Lua!
 
-Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) and [lua-languages](https://github.com/hengestone/lua-languages)
-
 ---
 
 ## Packages
@@ -18,6 +16,9 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [Game Development](#game-development)
 - [Windows Development](#windows-development)
 - [Internet of Things](#internet-of-things)
+- [Build Utilities](#build-utilities)
+- [Libraries](#libraries)
+- [Awesome Lists](#awesome-lists)
 
 ## Resources
 - [Community](#community)
@@ -102,12 +103,20 @@ Inspired by the lists [awsome-lua](https://github.com/LewisJEllis/awesome-lua) a
 - [XMake](https://github.com/xmake-io/xmake)
 - [Tup](https://gittup.org/tup/)
 
+### Libraries
+- [Tiny ECS](https://github.com/bakpakin/tiny-ecs)
+
+### Awesome Lists
+- [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
+- [Newer Awesome Lua](https://github.com/uhub/awesome-lua)
+
 ---
 
 ### Community
 - [Lua Space](http://lua.space/webdev/the-best-lua-web-frameworks)
 
 ### Style Guides
+- [Olivine Labs Style Guide](https://github.com/Olivine-Labs/lua-style-guide)
 
 ### Tutorials
 
